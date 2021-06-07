@@ -22,7 +22,7 @@ I am a third-year undergraduate student at [National Textile University](https:/
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="1.png" /> <!-- https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif -->
+<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
 
 #### *Talking about Personal Stuffs:*
 
