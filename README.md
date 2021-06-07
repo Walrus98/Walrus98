@@ -23,22 +23,12 @@ and Mern Stack.</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects</li>
 <li>🌐 Visit my <a href="#">porfolio</a> website for complete background and contact.</li>
 <li>💬 Ask me about Web Development</li>
-<li>📫 How to reach me:
-<a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a>
-</li>
+<li>📫 How to reach me: <a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a> </li>
 <li>🎉 Fun Fact: 我想学中文。</li>
-</ul>
-</li>
-👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
-</ul>
-</li>
-🌱 I’m an engineering student in GLA University, Mathura
-</ul>
-</li>
-💬 Ask me about anything, I am happy to help
-</ul>
-</li>
-📫 How to reach me: guptanandinee35@gmail.com
+</li>👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning</li>
+</li>🌱 I’m an engineering student in GLA University, Mathura</li>
+</li>💬 Ask me about anything, I am happy to help</li>
+</li>📫 How to reach me: guptanandinee35@gmail.com</li>
 </ul>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
