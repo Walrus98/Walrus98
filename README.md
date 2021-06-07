@@ -15,11 +15,11 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <ul>
 <li>🧐 I'm currently studying for university exams.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Walrus98" target="_blank">Github</a>.</li>
-<li>🥅 2021 Goals: I would like to learn Frontend Development, Web-App frameworks and other frameworks like GraphQL</li>
-<li>👯 I’m looking to collaborate on open source/commercial projects</li>
+<li>🥅 I would like to learn Frontend Development, Web-App frameworks and other frameworks like GraphQL</li>
+<li>👯 I’m looking to collaborate on open source/commercial projects.</li>
 <li>🌐 Visit my <a href="https://lordwalrus.dev/">porfolio</a> website for complete background and contact.</li>
 <li>🌱 I’m an engineering student in GLA University, Mathura</li>
-<li>💬 Ask me about anything, I am happy to help</li>
+<li>💬 Ask me about anything, I am happy to help.</li>
 <li>📫 How to reach me: me@lordwalrus.dev</li>
 </ul>
 
