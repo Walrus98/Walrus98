@@ -8,8 +8,6 @@ Actually, I am a third-year undergraduate at [Pisa University](https://www.unipi
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
-
 #### *Talking about Personal Stuffs:*
 
 <ul>
@@ -28,13 +26,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
 
-## My Github Profile
+## Github Profile
 
+#### Github Activity Graph
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
-</p>
+#### My Github Trophy
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub"/>
 
 [![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=nightowl)](https://github.com/baiziyu-fe)
 
@@ -42,11 +40,18 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Visits Badge](https://badges.pufler.dev/visits/Walrus98/git-badges)](https://badges.pufler.dev)
+
+
+<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
+
+
+
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
     <td>Total Visits</td>
-    <td><img src="https://profile-counter.glitch.me/Walrus98/count.svg" alt="Walrus98" /></td>
+    <td><img src="https://profile-counter.glitch.me/Walrus98/count.svg" alt="Walrus98"/></td>
   </tr>
 </table>
 
