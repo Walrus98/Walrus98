@@ -2,8 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
 <h3 align="center">A Computer Science student at Pisa's university</h3>
 
-## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=react-dark&hide_border=true&area=true)
-
 ### About me :mortar_board:
 
 I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
@@ -32,6 +30,8 @@ and Mern Stack.</li>
 </ul>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
+
+## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=react-dark&hide_border=true&area=true)
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
