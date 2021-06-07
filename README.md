@@ -1,24 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
-<h3 align="center">A Computer Science student at Pisa's university</h3>
-
-## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
-
-## GITHUB PROFILE TROPHY 🏆
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
-</p>
-
-[![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=nightowl)](https://github.com/baiziyu-fe)
-
-[![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=nightowl)](https://github.com/baiziyu-fe)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">An undergraduate student at Computer Science Pisa's University</h3>
 
 ### About me :mortar_board:
 
-I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
-I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
+I'm Samuele Calugi, a passionate Full Stack Developer and a student from CS Pisa's university.
+Actually, I am a third-year undergraduate at [Pisa University](https://www.unipi.it/index.php/lauree/corso/10298). I am an aspiring to become a Full Stack Developer, my interests specially are Backend Development, IoT Applications.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -33,19 +19,30 @@ and Mern Stack.</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects</li>
 <li>🌐 Visit my <a href="#">porfolio</a> website for complete background and contact.</li>
-<li>💬 Ask me about Web Development</li>
-<li>📫 How to reach me: <a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a> </li>
-<li>🎉 Fun Fact: 我想学中文。</li>
 <li>👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning</li>
 <li>🌱 I’m an engineering student in GLA University, Mathura</li>
 <li>💬 Ask me about anything, I am happy to help</li>
-<li>📫 How to reach me: guptanandinee35@gmail.com</li>
+<li>📫 How to reach me: me@lordwalrus.dev</li>
 </ul>
 
-<h4> A Random Joke To Make You Laugh </h4>
+#### *A Random Joke To Make You Laugh*
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+
+## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
+
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
+
+[![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=nightowl)](https://github.com/baiziyu-fe)
+
+[![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=nightowl)](https://github.com/baiziyu-fe)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- visitor counter -->
