@@ -6,15 +6,15 @@
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=dakrhub" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=nightowl" />    <!-- radical -->
 </p>
 
-[![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=dakrhub)](https://github.com/baiziyu-fe)
+[![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=nightowl)](https://github.com/baiziyu-fe)
 
-[![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=dakrhub)](https://github.com/baiziyu-fe)
+[![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=nightowl)](https://github.com/baiziyu-fe)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=dakrhub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me :mortar_board:
 
