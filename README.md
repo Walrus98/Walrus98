@@ -25,10 +25,10 @@ and Mern Stack.</li>
 <li>💬 Ask me about Web Development</li>
 <li>📫 How to reach me: <a href="https://www.facebook.com/abubakar.jutt.5283/">Facebook</a> </li>
 <li>🎉 Fun Fact: 我想学中文。</li>
-</li>👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning</li>
-</li>🌱 I’m an engineering student in GLA University, Mathura</li>
-</li>💬 Ask me about anything, I am happy to help</li>
-</li>📫 How to reach me: guptanandinee35@gmail.com</li>
+<li>👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning</li>
+<li>🌱 I’m an engineering student in GLA University, Mathura</li>
+<li>💬 Ask me about anything, I am happy to help</li>
+<li>📫 How to reach me: guptanandinee35@gmail.com</li>
 </ul>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
