@@ -24,4 +24,4 @@ and Mern Stack.</li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=mrwalrus98&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=mrwalrus98&cover_image=true&theme=default)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
