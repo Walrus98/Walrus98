@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
 <h3 align="center">A Computer Science student at Pisa's university</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
+
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=react-dark&hide_border=true&area=true)
 
@@ -37,4 +37,6 @@ and Mern Stack.</li>
 <li>💬 Ask me about anything, I am happy to help</li>
 <li>📫 How to reach me: guptanandinee35@gmail.com</li>
 </ul>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
 
