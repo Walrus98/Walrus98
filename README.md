@@ -18,13 +18,12 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <li>🥅 I would like to learn Frontend Development, Web-App and other frameworks like GraphQL.</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects.</li>
 <li>🌐 Visit my <a href="https://lordwalrus.dev/">porfolio</a> website for complete background and contact.</li>
-<li>🌱 I’m an engineering student in GLA University, Mathura</li>
+<!-- <li>🌱 I’m an engineering student in GLA University, Mathura</li> -->
 <li>💬 Ask me about anything, I am happy to help.</li>
 <li>📫 How to reach me: me@lordwalrus.dev</li>
 </ul>
 
 #### *A random joke to make you laugh:*
-<!-- HTML -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random )
 
