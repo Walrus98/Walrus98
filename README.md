@@ -51,8 +51,3 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
     <td><img src="https://profile-counter.glitch.me/Walrus98/count.svg" alt="Walrus98"/></td>
   </tr>
 </table>
-
-<div align="center">
-  
-</div>
-
