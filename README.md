@@ -14,7 +14,7 @@
 [![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/baiziyu-fe)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me :mortar_board:
 
