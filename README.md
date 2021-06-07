@@ -32,3 +32,8 @@ and Mern Stack.</li>
 </ul>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
+
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
