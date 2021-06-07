@@ -43,6 +43,20 @@ and Mern Stack.</li>
 <li>📫 How to reach me: guptanandinee35@gmail.com</li>
 </ul>
 
+<h4> A Random Joke To Make You Laugh </h4>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
+
+<!-- visitor counter -->
+<table aligh="center">
+  <tr>
+    <td>Total Visits</td>
+    <td><img src="https://profile-counter.glitch.me/Walrus98/count.svg" alt="Walrus98" /></td>
+  </tr>
+</table>
+
 
 <div align="center">
 
