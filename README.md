@@ -2,14 +2,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
 <h3 align="center">A Computer Science student at Pisa's university</h3>
 
-
-
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=react-dark&hide_border=true&area=true)
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
+
+[![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98theme=nightowl)](https://github.com/baiziyu-fe)
+
+[![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/baiziyu-fe)
+
 
 ### About me :mortar_board:
 
