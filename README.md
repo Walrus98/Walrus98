@@ -40,5 +40,10 @@ and Mern Stack.</li>
 <li>📫 How to reach me: guptanandinee35@gmail.com</li>
 </ul>
 
+
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
+  
+</div>
 
