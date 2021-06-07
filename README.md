@@ -12,19 +12,6 @@ I am a fullstack developer and Microsoft certified(MTA) Python Programmer. I am 
 
 #### *Talking about Personal Stuffs:*
 
-- 👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
-- 🌱 I’m an engineering student in GLA University, Mathura
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: guptanandinee35@gmail.com
-
-
-## About
-
-I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
-I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 <ul>
 <li>🧐 Learning about serverless architectures, distributed systems, tensorflow 
 and Mern Stack.</li>
@@ -38,5 +25,13 @@ and Mern Stack.</li>
 </li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
+
+## About
+
+I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
+I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
