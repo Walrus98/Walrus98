@@ -25,6 +25,10 @@ and Mern Stack.</li>
 </li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
+- 👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
+- 🌱 I’m an engineering student in GLA University, Mathura
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: guptanandinee35@gmail.com
 
 ## About
 
