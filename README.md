@@ -18,7 +18,7 @@ and Mern Stack.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AbubakarShf"   target="_blank">Github</a>.</li>
 <li>🥅 2021 Goals: Contribute more to Open Source projects</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects</li>
-<li>🌐 Visit my <a href="#">porfolio</a> website for complete background and contact.</li>
+<li>🌐 Visit my <a href="https://lordwalrus.dev/">porfolio</a> website for complete background and contact.</li>
 <li>👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning</li>
 <li>🌱 I’m an engineering student in GLA University, Mathura</li>
 <li>💬 Ask me about anything, I am happy to help</li>
