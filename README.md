@@ -28,9 +28,17 @@ and Mern Stack.</li>
 </li>
 <li>🎉 Fun Fact: 我想学中文。</li>
 </ul>
-- 👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
-- 🌱 I’m an engineering student in GLA University, Mathura
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: guptanandinee35@gmail.com
+</li>
+👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
+</ul>
+</li>
+🌱 I’m an engineering student in GLA University, Mathura
+</ul>
+</li>
+💬 Ask me about anything, I am happy to help
+</ul>
+</li>
+📫 How to reach me: guptanandinee35@gmail.com
+</ul>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
