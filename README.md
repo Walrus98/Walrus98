@@ -15,7 +15,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <ul>
 <li>🧐 I'm currently studying for university exams.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Walrus98" target="_blank">Github</a>.</li>
-<li>🥅 I would like to learn Frontend Development, Web-App and other frameworks like GraphQL</li>
+<li>🥅 I would like to learn Frontend Development, Web-App and other frameworks like GraphQL.</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects.</li>
 <li>🌐 Visit my <a href="https://lordwalrus.dev/">porfolio</a> website for complete background and contact.</li>
 <li>🌱 I’m an engineering student in GLA University, Mathura</li>
@@ -23,9 +23,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <li>📫 How to reach me: me@lordwalrus.dev</li>
 </ul>
 
-#### *A Random Joke To Make You Laugh:*
+#### *A random joke to make you laugh:*
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random )
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
 
@@ -37,7 +38,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 [![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=nightowl)](https://github.com/baiziyu-fe)
 
 [![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=nightowl)](https://github.com/baiziyu-fe)
-7
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- visitor counter -->
