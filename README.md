@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
-<h3 align="center">An undergraduate student at Computer Science Pisa's University</h3>
+<!-- <h3 align="center">An undergraduate student at Computer Science Pisa's University</h3> -->
 
 ### About me :mortar_board:
 
@@ -25,7 +25,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 #### *A random joke to make you laugh:*
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random )
+<img align="left" src="https://readme-jokes.vercel.app/api?theme=random"/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
 
