@@ -24,7 +24,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </ul>
 
 #### *A random joke to make you laugh:*
-
 <img align="left" src="https://readme-jokes.vercel.app/api?theme=random"/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
