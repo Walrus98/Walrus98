@@ -15,7 +15,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <ul>
 <li>🧐 I'm currently studying for university exams.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Walrus98" target="_blank">Github</a>.</li>
-<li>🥅 I would like to learn Frontend Development, Web-App frameworks and other frameworks like GraphQL</li>
+<li>🥅 I would like to learn Frontend Development, Web-App and other frameworks like GraphQL</li>
 <li>👯 I’m looking to collaborate on open source/commercial projects.</li>
 <li>🌐 Visit my <a href="https://lordwalrus.dev/">porfolio</a> website for complete background and contact.</li>
 <li>🌱 I’m an engineering student in GLA University, Mathura</li>
