@@ -1,10 +1,10 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 # I'm AbubakarShf - aka HalfProgrammer😉
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=AbubakarShf&theme=react-dark&hide_border=true&area=true)
 
-<!-- --- -->
+--- 
 
 &nbsp;
 
@@ -54,3 +54,4 @@ and Mern Stack.</li>
 <!-- <a href="https://t.me/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
 <!-- <a href="https://instagram.com/AbubakarShf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AbubakarShf" height="22" width="22" /></a> -->
 </p>
+-->
