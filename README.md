@@ -6,7 +6,10 @@
 
 ### About me :mortar_board:
 
-I am a fullstack developer and Microsoft certified(MTA) Python Programmer. I am a self-confident person and passionately working towards my dreams and willing to learn new things. Beside's these, I have also interest on Machine Learning.
+I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
+I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
+
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
@@ -29,13 +32,5 @@ and Mern Stack.</li>
 - 🌱 I’m an engineering student in GLA University, Mathura
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: guptanandinee35@gmail.com
-
-## About
-
-I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
-I am a third-year undergraduate student at [National Textile University](https://www.ntu.edu.pk/). I am an aspiring Junior web Developer at [EESTONE](https://www.ee-stone.com/). My other interests aside from web Dev are Backend Development, DevOps and Flutter.
-
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
