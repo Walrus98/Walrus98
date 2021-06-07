@@ -6,7 +6,7 @@
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=radical" />    
 </p>
 
 [![baiziyu-fe](https://github-readme-streak-stats.herokuapp.com/?user=Walrus98&theme=radical)](https://github.com/baiziyu-fe)
