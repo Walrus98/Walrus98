@@ -4,6 +4,20 @@
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=react-dark&hide_border=true&area=true)
 
+### About me :mortar_board:
+
+I am a fullstack developer and Microsoft certified(MTA) Python Programmer. I am a self-confident person and passionately working towards my dreams and willing to learn new things. Beside's these, I have also interest on Machine Learning.
+
+<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
+
+#### *Talking about Personal Stuffs:*
+
+- 👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
+- 🌱 I’m an engineering student in GLA University, Mathura
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: guptanandinee35@gmail.com
+
+
 ## About
 
 I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
