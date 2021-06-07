@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
 <!-- <h3 align="center">An undergraduate student at Computer Science Pisa's University</h3> -->
 
-### About me :mortar_board:
+## About me :mortar_board:
 
 I'm Samuele Calugi, a passionate Full Stack Developer and a student from CS Pisa's university.
 Actually, I am a third-year undergraduate at [Pisa University](https://www.unipi.it/index.php/lauree/corso/10298). I am an aspiring to become a Full Stack Developer, my interests specially are Backend Development and IoT Applications.
@@ -24,13 +24,14 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </ul>
 
 #### *A random joke to make you laugh:*
-<img align="left" src="https://readme-jokes.vercel.app/api?theme=random"/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
 
+## My Github Profile
+
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
 
-## GITHUB PROFILE TROPHY 🏆
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
@@ -50,8 +51,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </table>
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
   
 </div>
 
