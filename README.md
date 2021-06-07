@@ -10,6 +10,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 #### *Talking about Personal Stuffs:*
 
+<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
+
 <ul>
 <li>🧐 I'm currently studying for university exams.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Walrus98" target="_blank">Github</a>.</li>
@@ -41,11 +43,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Walrus98/git-badges)](https://badges.pufler.dev)
-
-
-<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
-
-
 
 <!-- visitor counter -->
 <table aligh="center">
