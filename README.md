@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tamojit Das</h1>
-<h3 align="center">A passionate frontend and backend developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuele Calugi</h1>
+<h3 align="center">A Computer Science Student.</h3>
 
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=react-dark&hide_border=true&area=true)
 
