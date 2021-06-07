@@ -25,7 +25,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 #### *A random joke to make you laugh:*
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
 
 ## Github Profile
@@ -41,8 +40,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 [![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=nightowl)](https://github.com/baiziyu-fe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walrus98&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Visits Badge](https://badges.pufler.dev/visits/Walrus98/git-badges)](https://badges.pufler.dev)
 
 <!-- visitor counter -->
 <table aligh="center">
