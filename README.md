@@ -25,7 +25,7 @@ and Mern Stack.</li>
 <li>📫 How to reach me: me@lordwalrus.dev</li>
 </ul>
 
-#### *A Random Joke To Make You Laugh*
+#### *A Random Joke To Make You Laugh:*
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
