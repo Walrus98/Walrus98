@@ -13,7 +13,6 @@
 
 [![Baiziyu-fe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walrus98&hide=contribs,prs&count_private=true&theme=radical)](https://github.com/baiziyu-fe)
 
-
 ### About me :mortar_board:
 
 I'm AbubakarShf, a passionate self-taught Full Stack web developer and a [freelance](https://www.fiverr.com/users/abubakarshf) from Pakistan.
