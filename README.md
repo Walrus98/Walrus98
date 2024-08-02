@@ -3,8 +3,7 @@
 
 ## About me :mortar_board:
 
-I'm Samuele Calugi, a passionate Full Stack Developer and a student from CS Pisa's university.
-Actually, I am a third-year undergraduate at [Pisa University](https://www.unipi.it/index.php/lauree/corso/10298). I am an aspiring to become a Full Stack Developer, my interests specially are Backend Development and IoT Applications.
+I'm Samuele Calugi, a passionate Full Stack developer graduated from university of computer science in Pisa [Pisa University](https://www.unipi.it/index.php/lauree/corso/10298). I am an aspiring to become a Full Stack Developer, my interests specially are Backend Development and IoT Applications.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
