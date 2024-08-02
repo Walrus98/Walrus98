@@ -46,7 +46,3 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
     <td><img src="https://profile-counter.glitch.me/Walrus98/count.svg" alt="Walrus98"/></td>
   </tr>
 </table>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mrwalrus98&redirect=true)
-
