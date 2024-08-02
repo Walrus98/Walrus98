@@ -27,9 +27,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 # Github Profile
 
-#### Github Activity Graph
-## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
-
 #### My Github Trophy
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Walrus98&margin-w=25&margin-h=25&column=7&theme=darkhub"/>
 
