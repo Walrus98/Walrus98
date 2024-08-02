@@ -25,7 +25,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 #### *A random joke to make you laugh:*
 ![Jokes Card](https://readme-jokes.vercel.app/api/?theme=random)
 
-## Github Profile
+# Github Profile
 
 #### Github Activity Graph
 ## ![](https://activity-graph.herokuapp.com/graph?username=Walrus98&theme=rogue&hide_border=true&area=true)
